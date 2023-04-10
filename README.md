@@ -1,2 +1,2 @@
 # ETL-Tools-Basic
-Project created with objective of support me during my task ETL. Contain classes, in python, what fazem geral operations, since find and open csv, to create model with autoML
+Project created in order to support me during my ETL task in Data Science. Contains classes, in python, that do general operations, from locating and opening csv, to creating a model with autoML.
